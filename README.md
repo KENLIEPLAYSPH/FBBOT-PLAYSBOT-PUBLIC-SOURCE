@@ -10,7 +10,7 @@ This repository contains the source code for the FBBOT-PLAYSBOT project.
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Guide](#usage)
+- [Installation](#installation)
 
 ## Introduction
 
@@ -22,10 +22,21 @@ Whether you're hosting a website, developing a web app, or creating an online pl
 
 ## Getting Started
 
+### Prerequisites
+
+- A GitHub account (for forking the project)
+- A Replit account (optional, for hosting)
+- A web hosting platform (optional, for self-hosting)
+
 ### Installation
 
-- [Provide step-by-step installation instructions here]
+#### Step 1: Fork the Project
+Begin by forking this project to your own GitHub account. Click on the 'Fork' button at the top right corner of the repository page. However, if you're using Replit for hosting, you can skip this step and proceed directly to creating a new Repl, selecting 'Import from GitHub', and entering the following link: https://github.com/KENLIEPLAYSPH/FBBOT-PLAYSBOT-PUBLIC-SOURCE
 
-## Guide
+#### Step 2: Star and Download the Project
+After forking, don't forget to star the project. This helps us a lot and we really appreciate it! Now you can download the project to your local machine by clicking on the 'Code' button and selecting 'Download ZIP'. If you're planning to host the project directly on GitHub, you can skip this download step.
 
-- [Provide step-by-step instructions on how to use the project here]
+#### Step 3: Host the Project
+After downloading, you can now upload the ZIP file to your hosting platform and unzip it. Voilà! You now have your own instance of FBBOT, ready to be customized and used as you see fit. 
+
+Don't forget to star the project on GitHub if you haven't done so already!
