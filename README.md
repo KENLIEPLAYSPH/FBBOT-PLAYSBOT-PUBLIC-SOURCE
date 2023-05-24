@@ -11,6 +11,7 @@ This repository contains the source code for the FBBOT-PLAYSBOT project.
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
+- [License](#license)
 
 ## Introduction
 
@@ -40,3 +41,7 @@ After forking, don't forget to star the project. This helps us a lot and we real
 After downloading, you can now upload the ZIP file to your hosting platform and unzip it. Voilà! You now have your own instance of FBBOT, ready to be customized and used as you see fit. 
 
 Don't forget to star the project on GitHub if you haven't done so already!
+
+## License
+
+This project is licensed under the terms of the LICENSE file included in this repository. For more details, please see the [LICENSE](LICENSE) file.
