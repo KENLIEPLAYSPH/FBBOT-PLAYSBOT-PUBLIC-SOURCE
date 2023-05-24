@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Appstate 2 FbBot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: #f8f8f8;
+      padding: 2rem;
+    }
+    h1 {
+      color: #333;
+    }
+    #sessionData {
+      width: 100%;
+      height: 300px;
+      resize: none;
+      padding: 1rem;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      font-size: 14px;
+      margin-bottom: 1rem;
+    }
+    button {
+      background-color: #4CAF50;
+      color: white;
+      font-size: 14px;
+      padding: 12px 24px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    #sessionCount {
+      font-size: 14px;
+      color: #333;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Appstate To Facebook Bot</h1>
+  <textarea id="sessionData" placeholder="Paste your session data here"></textarea>
+  <br>
+  <button id="submit">Add Session</button>
+  <p id="sessionCount">Active sessions: <span id="sessionNumber">0</span></p>
+  <p id="pingStatus">Ping: <span id="pingTime">0</span> ms</p>
+
+  <script src="script.js"></script>
+</body>
+</html>
